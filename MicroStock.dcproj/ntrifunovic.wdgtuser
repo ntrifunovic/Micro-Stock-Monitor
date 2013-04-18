@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Breakpoints</key>
+	<dict>
+		<key>widget.wdgt/main.js:110</key>
+		<string>-loop</string>
+		<key>widget.wdgt/main.js:125</key>
+		<string>-MoneyGet</string>
+		<key>widget.wdgt/main.js:129</key>
+		<string>-MoneyGet</string>
+		<key>widget.wdgt/main.js:131</key>
+		<string>-MoneyGet</string>
+		<key>widget.wdgt/main.js:132</key>
+		<string>-MoneyGet</string>
+		<key>widget.wdgt/main.js:146</key>
+		<string>-MoneyGet</string>
+		<key>widget.wdgt/main.js:40</key>
+		<string>-show</string>
+	</dict>
+	<key>CYLastWindowPosition</key>
+	<string>{52, 483}</string>
+	<key>ContentSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>8</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {759, 282}}</string>
+			<string>{{0, 292}, {759, 287}}</string>
+		</array>
+	</dict>
+	<key>ContentViewType</key>
+	<integer>0</integer>
+	<key>DeploymentOptions</key>
+	<dict>
+		<key>Destination</key>
+		<string>localhost.default</string>
+		<key>Path</key>
+		<string>Untitled 2</string>
+		<key>Save</key>
+		<true/>
+		<key>SavePath</key>
+		<string>/Users/ntrifunovic/Desktop/Projects/Micro Stock Monitor</string>
+		<key>WidgetDeployName</key>
+		<string>MicroStockMonitor v0.32</string>
+		<key>enableSimulation</key>
+		<true/>
+		<key>simulatedHost</key>
+		<string>Nemanjas-MacBook-Pro.local</string>
+	</dict>
+	<key>Design time language</key>
+	<string>en.lproj</string>
+	<key>MainSplitViewGeometry</key>
+	<dict>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {244, 600}}</string>
+			<string>{{245, 0}, {760, 600}}</string>
+		</array>
+	</dict>
+	<key>MainWindowFrame</key>
+	<string>36 156 1004 621 0 0 1280 778 </string>
+	<key>NavigatorSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>5</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {246, 371}}</string>
+			<string>{{0, 381}, {246, 198}}</string>
+		</array>
+	</dict>
+	<key>Widget</key>
+	<dict>
+		<key>Objects view expanded items</key>
+		<array>
+			<array>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</array>
+		<key>Objects view last selections</key>
+		<array/>
+		<key>Opened Steps</key>
+		<array>
+			<integer>0</integer>
+		</array>
+		<key>Visible StackLayout Views</key>
+		<array>
+			<string>back</string>
+		</array>
+	</dict>
+</dict>
+</plist>
